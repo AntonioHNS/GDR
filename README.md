@@ -1,2 +1,2 @@
-# GDR
-Guide Dog Robot
+#GDR
+Guide-Dog Robot
